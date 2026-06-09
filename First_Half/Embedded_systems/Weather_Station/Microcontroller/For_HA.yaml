@@ -1,0 +1,36 @@
+mqtt:
+  sensor:
+    - name: "Uunii Temperature"
+      state_topic: "weather/Uunii"
+      unit_of_measurement: "°C"
+      value_template: "{{ value_json.temp }}"
+
+    - name: "Uunii Humidity"
+      state_topic: "weather/Uunii"
+      unit_of_measurement: "%"
+      value_template: "{{ value_json.hum }}"
+
+    - name: "Uunii CO2"
+      state_topic: "weather/Uunii"
+      unit_of_measurement: "ppm"
+      value_template: "{{ value_json.co2 }}"
+
+    - name: "Uunii VOC"
+      state_topic: "weather/Uunii"
+      unit_of_measurement: "ppb"
+      value_template: "{{ value_json.voc }}"
+
+    - name: "Uunii Pressure"
+      state_topic: "weather/Uunii"
+      unit_of_measurement: "hPa"
+      value_template: "{{ value_json.pres }}"
+
+    - name: "Uunii Altitude"
+      state_topic: "weather/Uunii"
+      unit_of_measurement: "m"
+      value_template: "{{ value_json.alt }}"
+
+    - name: "Uunii Wind Speed"
+      state_topic: "weather/Uunii"
+      unit_of_measurement: "m/s"
+      value_template: "{{ value_json.wind }}"
