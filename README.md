@@ -39,13 +39,13 @@ It was a lot. But it worked. Every sensor, every reading, all of it. 🙂
 
 ### 📊 Kempower EV Charging — Data Analysis *(1st half)*
 
-Worked with a real dataset from **Kempower**, a Finnish EV charging company. Analyzed their EV charging history data — cleaning, exploring, finding patterns. First real taste of data analytics on actual industry data.
+Worked with a real dataset from **Kempower**, a Finnish EV charging company. Analyzed their EV charging history data — cleaning, exploring, finding patterns. First real taste of data analytics on actual industry data. BTW... never touching data analysis ever again...
 
 ---
 
-### 🤖 Machine Learning — Handwritten Digit Recognition *(2nd half)*
+### 🤖 Machine Learning — Handwritten Digit & Picture Recognition *(2nd half)*
 
-Jumped into ML using **Jupyter Notebook** and **TensorFlow**. Built and trained a model that can recognize handwritten numbers. The kind of thing that feels like magic until you understand the math behind it — then it feels like *hard* magic.
+Jumped into ML using **Jupyter Notebook** and **TensorFlow**. Built and trained a model that can recognize handwritten numbers $ pictures. The kind of thing that feels like magic until you understand the math behind it — then it feels like *hard* magic.
 
 ---
 
@@ -60,7 +60,7 @@ Still in progress — watch this space. 👀
 ### 🐳 Virtualization & Cloud *(2nd half)*
 
 Went deep on the infrastructure side:
-- **Virtual machines** → **Docker** → **Podman** → **Kubernetes**
+- **Virtual machines** , **Docker** , **Kubernetes**
 - **Linux** fundamentals
 - **SaaS / PaaS / IaaS** — understanding the cloud stack
 - Containers, orchestration, the whole deal
@@ -85,14 +85,6 @@ Learned proper UI/UX methods — design principles, user testing, evaluation fra
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
-
----
-
-## 💭 How year 2 felt
-
-Year 1 was about learning how to learn. Year 2 was about actually building things — real hardware, real data, real models, real products.
-
-The jump in complexity was massive. But so was the jump in how satisfying it felt when things worked.
 
 Still a long way to go. But the gap between "student project" and "actual product" is getting smaller. 📉
 
