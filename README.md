@@ -1,7 +1,5 @@
 # 🎓 2nd Year at LAB University of Applied Sciences (2025–2026)
 
-> Year 1 was survival. Year 2 is where things got actually interesting. 🔥
-
 This repo covers my second year of **Industrial Information Technology** at LAB University of Applied Sciences. Hardware, ML, cloud, containers, freelance platforms — somehow all in one year.
 
 ---
@@ -10,8 +8,8 @@ This repo covers my second year of **Industrial Information Technology** at LAB 
 
 | Folder | Period | Vibe |
 | :--- | :--- | :--- |
-| [`1st-half/`](./1st-half) | Autumn 2025 | Sensors, data, embedded systems |
-| [`2nd-half/`](./2nd-half) | Spring 2026 | ML, containers, and building real products |
+| [`First_Half/`](./First_Half) | Autumn 2025 | Sensors, data, embedded systems |
+| [`Second_Half/`](./Second_Half) | Spring 2026 | ML, containers, and building real products |
 
 ---
 
@@ -90,4 +88,4 @@ Still a long way to go. But the gap between "student project" and "actual produc
 
 ---
 
-> 📁 Check out [`1st-half/`](./1st-half) or [`2nd-half/`](./2nd-half) for the actual work.
+> 📁 Check out [`First_Half/`](./First_Half) or [`Second_Half/`](./Second_Half) for the actual work.
